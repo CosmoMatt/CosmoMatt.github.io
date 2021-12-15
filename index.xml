@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>Optimus-Primal: A lightweight primal-dual solver</title>
+      <title>Optimus-Primal: A light weight primal-dual solver</title>
       <link>https://academic-demo.netlify.app/codes/optimus-primal/</link>
       <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://academic-demo.netlify.app/codes/optimus-primal/</guid>
@@ -42,6 +42,16 @@ To learn more about proximal operators and algorithms, visit &lt;a href=&#34;htt
       <guid>https://academic-demo.netlify.app/codes/flag/</guid>
       <description>&lt;img src=&#34;https://academic-demo.netlify.app/media/flag.png&#34; width=&#34;200&#34; height=200 align=&#34;centre&#34;/&gt;
 &lt;p&gt;FLAG is a fast implementation of the Fourier-Laguerre Transform, a novel 3-dimensional transform exploiting an exact quadrature rule of the ball to construct an exact harmonic transform in 3D spherical coordinates. The angular part of the Fourier-Laguerre transform uses the MW sampling theorem and the exact spherical harmonic transform implemented in the SSHT code. The radial sampling scheme arises from an exact quadrature of the radial half-line using damped Laguerre polynomials. The radial transform can in fact be used to compute the spherical Bessel transform exactly, and the Fourier-Laguerre transform is thus closely related to the Fourier-Bessel transform.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FLAGLET: Fourier-Laguerre Wavelets on the Ball</title>
+      <link>https://academic-demo.netlify.app/codes/flaglet/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/codes/flaglet/</guid>
+      <description>&lt;img src=&#34;https://academic-demo.netlify.app/media/flaglet.png&#34; width=&#34;200&#34; height=200 align=&#34;centre&#34;/&gt;
+&lt;p&gt;The FLAGLET code provides high-performance routines for fast wavelet analysis of signals on the ball using the Flaglet transform described in Leistedt and McEwen (2012). It exploits S2LET, FLAG and SSHT codes. The flaglet transform is theoretically exact, i.e. the original signal can be synthesises from its wavelet coefficients exactly since the wavelet coefficients capture all the information of band-limited signals. The flaglets are constructed through an exact tilling of the Fourier-Laguerre space, a conjunction of the harmonic multipoles arising from the spherical harmonic transform on the sphere (performed by SSHT) and the spherical Laguerre transform on the radial half-line (performed in FLAG). This 2D harmonic space is tiled into wavelets (`flaglets&#39;) following the scale-discretised approach and its implementation in S2LET. The flaglets are highly localised in both real and frequency spaces, and form a dictionary in which most naturally occurring signals are sparse.&lt;/p&gt;
 </description>
     </item>
     
