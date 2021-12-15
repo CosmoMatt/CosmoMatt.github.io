@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bayesian evidence estimation | Matthew Price</title>
+    <link>https://academic-demo.netlify.app/tag/bayesian-evidence-estimation/</link>
+      <atom:link href="https://academic-demo.netlify.app/tag/bayesian-evidence-estimation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bayesian evidence estimation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-uk</language><lastBuildDate>Fri, 10 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_huf77b5cea2b1e34ddb59bdad8d1620810_28580_512x512_fill_lanczos_center_3.png</url>
+      <title>Bayesian evidence estimation</title>
+      <link>https://academic-demo.netlify.app/tag/bayesian-evidence-estimation/</link>
+    </image>
+    
+    <item>
+      <title>harmonic: Learnt harmonic mean estimator for Bayesian model selection</title>
+      <link>https://academic-demo.netlify.app/codes/harmonic/</link>
+      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/codes/harmonic/</guid>
+      <description>&lt;img src=&#34;https://academic-demo.netlify.app/media/harmonic.png&#34; width=&#34;200&#34; height=200 align=&#34;centre&#34;/&gt;
+&lt;p&gt;We resurrect the infamous harmonic mean estimator for computing the marginal likelihood (Bayesian evidence) and solve its problematic large variance. The marginal likelihood is a key component of Bayesian model selection since it is required to evaluate model posterior probabilities; however, its computation is challenging. The original harmonic mean estimator, first proposed in 1994 by Newton and Raftery, involves computing the harmonic mean of the likelihood given samples from the posterior. It was immediately realised that the original estimator can fail catastrophically since its variance can become very large and may not be finite. A number of variants of the harmonic mean estimator have been proposed to address this issue although none have proven fully satisfactory.&lt;/p&gt;
+&lt;p&gt;We present the learnt harmonic mean estimator, a variant of the original estimator that solves its large variance problem. This is achieved by interpreting the harmonic mean estimator as importance sampling and introducing a new target distribution. The new target distribution is learned to approximate the optimal but inaccessible target, while minimising the variance of the resulting estimator. Since the estimator requires samples of the posterior only it is agnostic to the strategy used to generate posterior samples.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

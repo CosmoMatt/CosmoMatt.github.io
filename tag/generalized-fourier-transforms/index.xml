@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Generalized Fourier Transforms | Matthew Price</title>
+    <link>https://academic-demo.netlify.app/tag/generalized-fourier-transforms/</link>
+      <atom:link href="https://academic-demo.netlify.app/tag/generalized-fourier-transforms/index.xml" rel="self" type="application/rss+xml" />
+    <description>Generalized Fourier Transforms</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-uk</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_huf77b5cea2b1e34ddb59bdad8d1620810_28580_512x512_fill_lanczos_center_3.png</url>
+      <title>Generalized Fourier Transforms</title>
+      <link>https://academic-demo.netlify.app/tag/generalized-fourier-transforms/</link>
+    </image>
+    
+    <item>
+      <title>FLAG: Fourier-LAGuerre Transform</title>
+      <link>https://academic-demo.netlify.app/codes/flag/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/codes/flag/</guid>
+      <description>&lt;img src=&#34;https://academic-demo.netlify.app/media/flag.png&#34; width=&#34;200&#34; height=200 align=&#34;centre&#34;/&gt;
+&lt;p&gt;FLAG is a fast implementation of the Fourier-Laguerre Transform, a novel 3-dimensional transform exploiting an exact quadrature rule of the ball to construct an exact harmonic transform in 3D spherical coordinates. The angular part of the Fourier-Laguerre transform uses the MW sampling theorem and the exact spherical harmonic transform implemented in the SSHT code. The radial sampling scheme arises from an exact quadrature of the radial half-line using damped Laguerre polynomials. The radial transform can in fact be used to compute the spherical Bessel transform exactly, and the Fourier-Laguerre transform is thus closely related to the Fourier-Bessel transform.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

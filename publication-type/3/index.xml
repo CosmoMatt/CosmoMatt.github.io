@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Matthew Price</title>
+    <link>https://academic-demo.netlify.app/publication-type/3/</link>
+      <atom:link href="https://academic-demo.netlify.app/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-uk</language><lastBuildDate>Wed, 24 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_huf77b5cea2b1e34ddb59bdad8d1620810_28580_512x512_fill_lanczos_center_3.png</url>
+      <title>3</title>
+      <link>https://academic-demo.netlify.app/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>Machine learning assisted Bayesian model comparison: learnt harmonic mean estimator</title>
+      <link>https://academic-demo.netlify.app/publication/harmonic_2021/</link>
+      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/harmonic_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian variational regularisation on the ball</title>
+      <link>https://academic-demo.netlify.app/publication/ball_imaging_2021/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/ball_imaging_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse image reconstruction on the sphere: a general approach with uncertainty quantification</title>
+      <link>https://academic-demo.netlify.app/publication/spherical_reconstruction_2021/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/spherical_reconstruction_2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
