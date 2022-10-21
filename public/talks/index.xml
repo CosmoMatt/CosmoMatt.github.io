@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks | Matthew Price</title>
+    <link>https://academic-demo.netlify.app/talks/</link>
+      <atom:link href="https://academic-demo.netlify.app/talks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-uk</language><lastBuildDate>Wed, 17 Nov 2021 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_huf77b5cea2b1e34ddb59bdad8d1620810_28580_512x512_fill_lanczos_center_3.png</url>
+      <title>Talks</title>
+      <link>https://academic-demo.netlify.app/talks/</link>
+    </image>
+    
+    <item>
+      <title>Imaging the Invisible</title>
+      <link>https://academic-demo.netlify.app/talks/example/</link>
+      <pubDate>Wed, 17 Nov 2021 13:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/talks/example/</guid>
+      <description>&lt;p&gt;This talk was given in receipt of the Alan Johnston Award for Outstanding Scientific Achievement in 2021 at the Mullard Space Science Laboratory (MSSL), Department of Space and Climate Physics, University College London (UCL). It contains a very high-level overview of some of the work that went into my doctoral thesis, with some (hopefully) interesting animations!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

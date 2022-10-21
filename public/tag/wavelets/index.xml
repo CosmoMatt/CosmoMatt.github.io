@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wavelets | Matthew Price</title>
+    <link>https://academic-demo.netlify.app/tag/wavelets/</link>
+      <atom:link href="https://academic-demo.netlify.app/tag/wavelets/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wavelets</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-uk</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_huf77b5cea2b1e34ddb59bdad8d1620810_28580_512x512_fill_lanczos_center_3.png</url>
+      <title>Wavelets</title>
+      <link>https://academic-demo.netlify.app/tag/wavelets/</link>
+    </image>
+    
+    <item>
+      <title>FLAGLET: Fourier-Laguerre Wavelets on the Ball</title>
+      <link>https://academic-demo.netlify.app/codes/flaglet/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/codes/flaglet/</guid>
+      <description>&lt;img src=&#34;https://academic-demo.netlify.app/media/flaglet.png&#34; width=&#34;200&#34; height=200 align=&#34;centre&#34;/&gt;
+&lt;p&gt;The FLAGLET code provides high-performance routines for fast wavelet analysis of signals on the ball using the Flaglet transform described in Leistedt and McEwen (2012). It exploits S2LET, FLAG and SSHT codes. The flaglet transform is theoretically exact, i.e. the original signal can be synthesises from its wavelet coefficients exactly since the wavelet coefficients capture all the information of band-limited signals. The flaglets are constructed through an exact tilling of the Fourier-Laguerre space, a conjunction of the harmonic multipoles arising from the spherical harmonic transform on the sphere (performed by SSHT) and the spherical Laguerre transform on the radial half-line (performed in FLAG). This 2D harmonic space is tiled into wavelets (`flaglets&#39;) following the scale-discretised approach and its implementation in S2LET. The flaglets are highly localised in both real and frequency spaces, and form a dictionary in which most naturally occurring signals are sparse.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scale-discretised ridgelet transform on the sphere</title>
+      <link>https://academic-demo.netlify.app/publication/ridgelets_2019/</link>
+      <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/ridgelets_2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

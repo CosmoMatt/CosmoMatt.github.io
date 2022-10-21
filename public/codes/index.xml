@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Codes | Matthew Price</title>
+    <link>https://academic-demo.netlify.app/codes/</link>
+      <atom:link href="https://academic-demo.netlify.app/codes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Codes</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-uk</language><lastBuildDate>Mon, 13 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_huf77b5cea2b1e34ddb59bdad8d1620810_28580_512x512_fill_lanczos_center_3.png</url>
+      <title>Codes</title>
+      <link>https://academic-demo.netlify.app/codes/</link>
+    </image>
+    
+    <item>
+      <title>Optimus-Primal: A light weight primal-dual solver</title>
+      <link>https://academic-demo.netlify.app/codes/optimus-primal/</link>
+      <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/codes/optimus-primal/</guid>
+      <description>&lt;img src=&#34;https://academic-demo.netlify.app/media/optimus-primal.png&#34; width=&#34;200&#34; height=200 align=&#34;centre&#34;/&gt;
+&lt;p&gt;&lt;code&gt;optimus-primal&lt;/code&gt; is a light weight proximal splitting Forward Backward Primal Dual based solver for convex optimization problems.
+The current version supports finding the minimum of $f(x) + h(A x) + p(B x) + g(x)$, where $f$, $h$, and $p$ are lower semi continuous and have proximal operators, and $g$ is differentiable. $A$ and $B$ are linear operators.
+To learn more about proximal operators and algorithms, visit &lt;a href=&#34;http://proximity-operator.net/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;proximity operator repository&lt;/a&gt;. We suggest that users read the tutorial &lt;a href=&#34;http://proximity-operator.net/download/guide.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;The Proximity Operator Repository. User&amp;rsquo;s guide&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>harmonic: Learnt harmonic mean estimator for Bayesian model selection</title>
+      <link>https://academic-demo.netlify.app/codes/harmonic/</link>
+      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/codes/harmonic/</guid>
+      <description>&lt;img src=&#34;https://academic-demo.netlify.app/media/harmonic.png&#34; width=&#34;200&#34; height=200 align=&#34;centre&#34;/&gt;
+&lt;p&gt;We resurrect the infamous harmonic mean estimator for computing the marginal likelihood (Bayesian evidence) and solve its problematic large variance. The marginal likelihood is a key component of Bayesian model selection since it is required to evaluate model posterior probabilities; however, its computation is challenging. The original harmonic mean estimator, first proposed in 1994 by Newton and Raftery, involves computing the harmonic mean of the likelihood given samples from the posterior. It was immediately realised that the original estimator can fail catastrophically since its variance can become very large and may not be finite. A number of variants of the harmonic mean estimator have been proposed to address this issue although none have proven fully satisfactory.&lt;/p&gt;
+&lt;p&gt;We present the learnt harmonic mean estimator, a variant of the original estimator that solves its large variance problem. This is achieved by interpreting the harmonic mean estimator as importance sampling and introducing a new target distribution. The new target distribution is learned to approximate the optimal but inaccessible target, while minimising the variance of the resulting estimator. Since the estimator requires samples of the posterior only it is agnostic to the strategy used to generate posterior samples.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FLAG: Fourier-LAGuerre Transform</title>
+      <link>https://academic-demo.netlify.app/codes/flag/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/codes/flag/</guid>
+      <description>&lt;img src=&#34;https://academic-demo.netlify.app/media/flag.png&#34; width=&#34;200&#34; height=200 align=&#34;centre&#34;/&gt;
+&lt;p&gt;FLAG is a fast implementation of the Fourier-Laguerre Transform, a novel 3-dimensional transform exploiting an exact quadrature rule of the ball to construct an exact harmonic transform in 3D spherical coordinates. The angular part of the Fourier-Laguerre transform uses the MW sampling theorem and the exact spherical harmonic transform implemented in the SSHT code. The radial sampling scheme arises from an exact quadrature of the radial half-line using damped Laguerre polynomials. The radial transform can in fact be used to compute the spherical Bessel transform exactly, and the Fourier-Laguerre transform is thus closely related to the Fourier-Bessel transform.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FLAGLET: Fourier-Laguerre Wavelets on the Ball</title>
+      <link>https://academic-demo.netlify.app/codes/flaglet/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/codes/flaglet/</guid>
+      <description>&lt;img src=&#34;https://academic-demo.netlify.app/media/flaglet.png&#34; width=&#34;200&#34; height=200 align=&#34;centre&#34;/&gt;
+&lt;p&gt;The FLAGLET code provides high-performance routines for fast wavelet analysis of signals on the ball using the Flaglet transform described in Leistedt and McEwen (2012). It exploits S2LET, FLAG and SSHT codes. The flaglet transform is theoretically exact, i.e. the original signal can be synthesises from its wavelet coefficients exactly since the wavelet coefficients capture all the information of band-limited signals. The flaglets are constructed through an exact tilling of the Fourier-Laguerre space, a conjunction of the harmonic multipoles arising from the spherical harmonic transform on the sphere (performed by SSHT) and the spherical Laguerre transform on the radial half-line (performed in FLAG). This 2D harmonic space is tiled into wavelets (`flaglets&#39;) following the scale-discretised approach and its implementation in S2LET. The flaglets are highly localised in both real and frequency spaces, and form a dictionary in which most naturally occurring signals are sparse.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

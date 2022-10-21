@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slides | Matthew Price</title>
+    <link>https://academic-demo.netlify.app/slides/</link>
+      <atom:link href="https://academic-demo.netlify.app/slides/index.xml" rel="self" type="application/rss+xml" />
+    <description>Slides</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-uk</language><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Slides</title>
+      <link>https://academic-demo.netlify.app/slides/imaging_the_invisible_2021/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/slides/imaging_the_invisible_2021/</guid>
+      <description>&lt;html&gt;
+&lt;script type=&#34;text/javascript&#34;&gt;
+
+function detectBrowser()
+{
+    var slashIndex = window.location.href.lastIndexOf(&#34;/&#34;);
+    var cropped = window.location.href.slice(0,slashIndex+1);
+
+    window.location.replace(cropped + &#34;assets/player/KeynoteDHTMLPlayer.html&#34;);
+}
+
+&lt;/script&gt;
+&lt;body bgcolor=&#34;black&#34; onload=&#34;detectBrowser()&#34;&gt;
+&lt;/body&gt;
+&lt;/html&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
