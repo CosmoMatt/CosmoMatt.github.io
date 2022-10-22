@@ -6,7 +6,15 @@
   <url>
     <loc>https://academic-demo.netlify.app/poster_gallery/</loc></url>
   <url>
-    <loc>https://academic-demo.netlify.app/</loc><lastmod>2022-09-09T00:00:00+00:00</lastmod></url>
+    <loc>https://academic-demo.netlify.app/</loc><lastmod>2022-10-17T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/codes/</loc><lastmod>2022-10-17T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/tag/convex-optimisation/</loc><lastmod>2022-10-17T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/codes/sopt/</loc><lastmod>2022-10-17T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/tags/</loc><lastmod>2022-10-17T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/publication-type/1/</loc><lastmod>2022-09-09T00:00:00+00:00</lastmod></url>
   <url>
@@ -30,7 +38,9 @@
   <url>
     <loc>https://academic-demo.netlify.app/publication/disco_2022/</loc><lastmod>2022-09-09T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://academic-demo.netlify.app/tags/</loc><lastmod>2022-09-09T00:00:00+00:00</lastmod></url>
+    <loc>https://academic-demo.netlify.app/tag/nested-sampling/</loc><lastmod>2022-06-30T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/codes/proxnest/</loc><lastmod>2022-06-30T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/publication-type/3/</loc><lastmod>2022-05-24T00:00:00+00:00</lastmod></url>
   <url>
@@ -44,7 +54,9 @@
   <url>
     <loc>https://academic-demo.netlify.app/tag/simulation-based-inference/</loc><lastmod>2022-05-24T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://academic-demo.netlify.app/codes/</loc><lastmod>2021-12-13T00:00:00+00:00</lastmod></url>
+    <loc>https://academic-demo.netlify.app/codes/darkmappy/</loc><lastmod>2022-02-22T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/tag/weak-lensing/</loc><lastmod>2022-02-22T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/codes/optimus-primal/</loc><lastmod>2021-12-13T00:00:00+00:00</lastmod></url>
   <url>

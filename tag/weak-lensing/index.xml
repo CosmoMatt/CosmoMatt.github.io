@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weak Lensing | Matthew Price</title>
+    <link>https://academic-demo.netlify.app/tag/weak-lensing/</link>
+      <atom:link href="https://academic-demo.netlify.app/tag/weak-lensing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Weak Lensing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-uk</language><lastBuildDate>Tue, 22 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_huf77b5cea2b1e34ddb59bdad8d1620810_28580_512x512_fill_lanczos_center_3.png</url>
+      <title>Weak Lensing</title>
+      <link>https://academic-demo.netlify.app/tag/weak-lensing/</link>
+    </image>
+    
+    <item>
+      <title>DarkMappy</title>
+      <link>https://academic-demo.netlify.app/codes/darkmappy/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/codes/darkmappy/</guid>
+      <description>&lt;img src=&#34;https://academic-demo.netlify.app/media/darkmappy.png&#34; width=&#34;200&#34; height=200 align=&#34;centre&#34;/&gt;
+&lt;p&gt;&lt;code&gt;darkmappy&lt;/code&gt; is a lightweight python package which implements the hybrid Bayesian dark-matter reconstruction techniques
+outlined on the plane in &lt;a href=&#34;https://academic.oup.com/mnras/article-abstract/506/3/3678/6319513&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Price et al. 2019&lt;/a&gt;, and on the celestial sphere in &lt;a href=&#34;https://academic.oup.com/mnras/article/500/4/5436/5986632&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Price et al. 2021&lt;/a&gt;. For comparison (and as initialisation for our iterations) the spherical Kaiser-Squires estimator of the convergence is implemented (see &lt;a href=&#34;https://academic.oup.com/mnras/article-abstract/509/3/4480/6424933&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wallis et al. 2021&lt;/a&gt;). These techniques are based on &lt;em&gt;maximum a posteriori&lt;/em&gt; estimation which, by construction, support principled uncertainty quantification, see &lt;a href=&#34;https://epubs.siam.org/doi/10.1137/16M1071249&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pereyra 2016&lt;/a&gt;. Further examples of such uncertainty quantification techniques developed for the weak lensing setting can be found in related articles &lt;a href=&#34;https://academic.oup.com/mnras/article/489/3/3236/5554769&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Price et al. 2019a&lt;/a&gt; and &lt;a href=&#34;https://academic.oup.com/mnras/article/492/1/394/5672642&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Price et al. 2019b&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

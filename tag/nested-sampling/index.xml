@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nested Sampling | Matthew Price</title>
+    <link>https://academic-demo.netlify.app/tag/nested-sampling/</link>
+      <atom:link href="https://academic-demo.netlify.app/tag/nested-sampling/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nested Sampling</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-uk</language><lastBuildDate>Thu, 30 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_huf77b5cea2b1e34ddb59bdad8d1620810_28580_512x512_fill_lanczos_center_3.png</url>
+      <title>Nested Sampling</title>
+      <link>https://academic-demo.netlify.app/tag/nested-sampling/</link>
+    </image>
+    
+    <item>
+      <title>ProxNest</title>
+      <link>https://academic-demo.netlify.app/codes/proxnest/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/codes/proxnest/</guid>
+      <description>&lt;img src=&#34;https://academic-demo.netlify.app/media/proxnest.png&#34; width=&#34;200&#34; height=200 align=&#34;centre&#34;/&gt;
+&lt;p&gt;ProxNest is an open source, well tested and documented Python implementation of the proximal nested sampling framework (&lt;a href=&#34;https://arxiv.org/pdf/2106.03646&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cai et al. 2022&lt;/a&gt;) to compute the Bayesian model evidence or marginal likelihood in high-dimensional log-convex settings. Furthermore, non-smooth sparsity-promoting priors are also supported.&lt;/p&gt;
+&lt;p&gt;This is achieved by exploiting tools from proximal calculus and Moreau-Yosida regularisation (&lt;a href=&#34;https://hal.archives-ouvertes.fr/hal-01867195/file/Fonctions_convexes_duales_points_proximaux_Moreau_CRAS_1962.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Moreau 1962&lt;/a&gt;) to efficiently sample from the prior subject to the hard likelihood constraint. The resulting Markov chain iterations include a gradient step, approximating (with arbitrary precision) an overdamped Langevin SDE that can scale to very high-dimensional applications.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

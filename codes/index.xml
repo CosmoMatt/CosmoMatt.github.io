@@ -5,12 +5,46 @@
     <link>https://academic-demo.netlify.app/codes/</link>
       <atom:link href="https://academic-demo.netlify.app/codes/index.xml" rel="self" type="application/rss+xml" />
     <description>Codes</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-uk</language><lastBuildDate>Mon, 13 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-uk</language><lastBuildDate>Mon, 17 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://academic-demo.netlify.app/media/icon_huf77b5cea2b1e34ddb59bdad8d1620810_28580_512x512_fill_lanczos_center_3.png</url>
       <title>Codes</title>
       <link>https://academic-demo.netlify.app/codes/</link>
     </image>
+    
+    <item>
+      <title>SOPT</title>
+      <link>https://academic-demo.netlify.app/codes/sopt/</link>
+      <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/codes/sopt/</guid>
+      <description>&lt;img src=&#34;https://academic-demo.netlify.app/media/sopt.png&#34; width=&#34;200&#34; height=200 align=&#34;centre&#34;/&gt;
+&lt;p&gt;SOPT is an open-source C++ package available under the license below. It performs Sparse OPTimisation using state-of-the-art convex optimisation algorithms. It solves a variety of sparse regularisation problems, including the Sparsity Averaging Reweighted Analysis (SARA) algorithm.&lt;/p&gt;
+&lt;p&gt;SOPT also has several MPI wrappers that can be adapted for computational distirbution of various linear operators and convex optimisation algorithms. Wavelet Operators with SOPT also support multi-threading through OpenMP. SOPT is written in C++ primarily but also contains partial and prototyped Matlab implementations of various algorithms.&lt;/p&gt;
+&lt;p&gt;SOPT is largely provided to support the PURIFY package, a companion open-source code to perform radio interferometric imaging, also written by the authors of SOPT. For further background please see the reference section.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ProxNest</title>
+      <link>https://academic-demo.netlify.app/codes/proxnest/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/codes/proxnest/</guid>
+      <description>&lt;img src=&#34;https://academic-demo.netlify.app/media/proxnest.png&#34; width=&#34;200&#34; height=200 align=&#34;centre&#34;/&gt;
+&lt;p&gt;ProxNest is an open source, well tested and documented Python implementation of the proximal nested sampling framework (&lt;a href=&#34;https://arxiv.org/pdf/2106.03646&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cai et al. 2022&lt;/a&gt;) to compute the Bayesian model evidence or marginal likelihood in high-dimensional log-convex settings. Furthermore, non-smooth sparsity-promoting priors are also supported.&lt;/p&gt;
+&lt;p&gt;This is achieved by exploiting tools from proximal calculus and Moreau-Yosida regularisation (&lt;a href=&#34;https://hal.archives-ouvertes.fr/hal-01867195/file/Fonctions_convexes_duales_points_proximaux_Moreau_CRAS_1962.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Moreau 1962&lt;/a&gt;) to efficiently sample from the prior subject to the hard likelihood constraint. The resulting Markov chain iterations include a gradient step, approximating (with arbitrary precision) an overdamped Langevin SDE that can scale to very high-dimensional applications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DarkMappy</title>
+      <link>https://academic-demo.netlify.app/codes/darkmappy/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/codes/darkmappy/</guid>
+      <description>&lt;img src=&#34;https://academic-demo.netlify.app/media/darkmappy.png&#34; width=&#34;200&#34; height=200 align=&#34;centre&#34;/&gt;
+&lt;p&gt;&lt;code&gt;darkmappy&lt;/code&gt; is a lightweight python package which implements the hybrid Bayesian dark-matter reconstruction techniques
+outlined on the plane in &lt;a href=&#34;https://academic.oup.com/mnras/article-abstract/506/3/3678/6319513&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Price et al. 2019&lt;/a&gt;, and on the celestial sphere in &lt;a href=&#34;https://academic.oup.com/mnras/article/500/4/5436/5986632&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Price et al. 2021&lt;/a&gt;. For comparison (and as initialisation for our iterations) the spherical Kaiser-Squires estimator of the convergence is implemented (see &lt;a href=&#34;https://academic.oup.com/mnras/article-abstract/509/3/4480/6424933&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wallis et al. 2021&lt;/a&gt;). These techniques are based on &lt;em&gt;maximum a posteriori&lt;/em&gt; estimation which, by construction, support principled uncertainty quantification, see &lt;a href=&#34;https://epubs.siam.org/doi/10.1137/16M1071249&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pereyra 2016&lt;/a&gt;. Further examples of such uncertainty quantification techniques developed for the weak lensing setting can be found in related articles &lt;a href=&#34;https://academic.oup.com/mnras/article/489/3/3236/5554769&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Price et al. 2019a&lt;/a&gt; and &lt;a href=&#34;https://academic.oup.com/mnras/article/492/1/394/5672642&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Price et al. 2019b&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Optimus-Primal: A light weight primal-dual solver</title>
