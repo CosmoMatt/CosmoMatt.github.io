@@ -5,12 +5,20 @@
     <link>https://academic-demo.netlify.app/tag/harmonic-analysis/</link>
       <atom:link href="https://academic-demo.netlify.app/tag/harmonic-analysis/index.xml" rel="self" type="application/rss+xml" />
     <description>Harmonic Analysis</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-uk</language><lastBuildDate>Wed, 10 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-uk</language><lastBuildDate>Fri, 09 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://academic-demo.netlify.app/media/icon_huf77b5cea2b1e34ddb59bdad8d1620810_28580_512x512_fill_lanczos_center_3.png</url>
       <title>Harmonic Analysis</title>
       <link>https://academic-demo.netlify.app/tag/harmonic-analysis/</link>
     </image>
+    
+    <item>
+      <title>Scalable and Equivariant Spherical CNNs by Discrete-Continuous (DISCO) Convolutions</title>
+      <link>https://academic-demo.netlify.app/publication/disco_2022/</link>
+      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/disco_2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Mapping dark matter on the celestial sphere with weak gravitational lensing</title>

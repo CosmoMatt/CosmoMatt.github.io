@@ -5,12 +5,28 @@
     <link>https://academic-demo.netlify.app/author/matthew-price/</link>
       <atom:link href="https://academic-demo.netlify.app/author/matthew-price/index.xml" rel="self" type="application/rss+xml" />
     <description>Matthew Price</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-uk</language><lastBuildDate>Wed, 24 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-uk</language><lastBuildDate>Fri, 09 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://academic-demo.netlify.app/author/matthew-price/avatar_hue4096f6c9b4d9628e96da633880d7976_61905_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://academic-demo.netlify.app/author/matthew-price/avatar_hu440aeaed462aaa66462ef6a8adb02a27_426647_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Matthew Price</title>
       <link>https://academic-demo.netlify.app/author/matthew-price/</link>
     </image>
+    
+    <item>
+      <title>Scalable and Equivariant Spherical CNNs by Discrete-Continuous (DISCO) Convolutions</title>
+      <link>https://academic-demo.netlify.app/publication/disco_2022/</link>
+      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/disco_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian model comparison for simulation-based inference</title>
+      <link>https://academic-demo.netlify.app/publication/harmonic_sbi_2022/</link>
+      <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/harmonic_sbi_2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Machine learning assisted Bayesian model comparison: learnt harmonic mean estimator</title>

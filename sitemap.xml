@@ -6,7 +6,43 @@
   <url>
     <loc>https://academic-demo.netlify.app/poster_gallery/</loc></url>
   <url>
-    <loc>https://academic-demo.netlify.app/</loc><lastmod>2021-12-13T00:00:00+00:00</lastmod></url>
+    <loc>https://academic-demo.netlify.app/</loc><lastmod>2022-09-09T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/publication-type/1/</loc><lastmod>2022-09-09T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/authors/</loc><lastmod>2022-09-09T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/tag/deep-learning/</loc><lastmod>2022-09-09T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/tag/harmonic-analysis/</loc><lastmod>2022-09-09T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/author/jason-d.-mcewen/</loc><lastmod>2022-09-09T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/author/jeremy-ocampo/</loc><lastmod>2022-09-09T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/tag/machine-learning/</loc><lastmod>2022-09-09T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/author/matthew-price/</loc><lastmod>2022-09-09T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/publication_types/</loc><lastmod>2022-09-09T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/publication/</loc><lastmod>2022-09-09T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/publication/disco_2022/</loc><lastmod>2022-09-09T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/tags/</loc><lastmod>2022-09-09T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/publication-type/3/</loc><lastmod>2022-05-24T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/author/alessio-s.-mancini/</loc><lastmod>2022-05-24T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/tag/bayesian-inference/</loc><lastmod>2022-05-24T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/publication/harmonic_sbi_2022/</loc><lastmod>2022-05-24T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/author/matthew-m.-docherty/</loc><lastmod>2022-05-24T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/tag/simulation-based-inference/</loc><lastmod>2022-05-24T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/codes/</loc><lastmod>2021-12-13T00:00:00+00:00</lastmod></url>
   <url>
@@ -14,13 +50,9 @@
   <url>
     <loc>https://academic-demo.netlify.app/tag/signal-processing/</loc><lastmod>2021-12-13T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://academic-demo.netlify.app/tags/</loc><lastmod>2021-12-13T00:00:00+00:00</lastmod></url>
-  <url>
     <loc>https://academic-demo.netlify.app/tag/bayesian-evidence-estimation/</loc><lastmod>2021-12-10T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/codes/harmonic/</loc><lastmod>2021-12-10T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/tag/machine-learning/</loc><lastmod>2021-12-10T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/tag/probability-theory/</loc><lastmod>2021-12-10T00:00:00+00:00</lastmod></url>
   <url>
@@ -34,25 +66,9 @@
   <url>
     <loc>https://academic-demo.netlify.app/tag/wavelets/</loc><lastmod>2021-12-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://academic-demo.netlify.app/publication-type/3/</loc><lastmod>2021-11-24T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/authors/</loc><lastmod>2021-11-24T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/tag/bayesian-inference/</loc><lastmod>2021-11-24T00:00:00+00:00</lastmod></url>
-  <url>
     <loc>https://academic-demo.netlify.app/author/christopher-g.-r.-wallis/</loc><lastmod>2021-11-24T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://academic-demo.netlify.app/author/jason-d.-mcewen/</loc><lastmod>2021-11-24T00:00:00+00:00</lastmod></url>
-  <url>
     <loc>https://academic-demo.netlify.app/publication/harmonic_2021/</loc><lastmod>2021-11-24T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/author/matthew-m.-docherty/</loc><lastmod>2021-11-24T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/author/matthew-price/</loc><lastmod>2021-11-24T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/publication_types/</loc><lastmod>2021-11-24T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/publication/</loc><lastmod>2021-11-24T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/talks/example/</loc><lastmod>2021-11-17T13:00:00+00:00</lastmod></url>
   <url>
@@ -65,8 +81,6 @@
     <loc>https://academic-demo.netlify.app/author/boris-leistedt/</loc><lastmod>2021-11-10T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/tag/dark-matter/</loc><lastmod>2021-11-10T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/tag/harmonic-analysis/</loc><lastmod>2021-11-10T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/publication/massmappy_2021/</loc><lastmod>2021-11-10T00:00:00+00:00</lastmod></url>
   <url>
@@ -84,13 +98,9 @@
   <url>
     <loc>https://academic-demo.netlify.app/publication/spherical_massmapping_2021/</loc><lastmod>2020-11-17T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://academic-demo.netlify.app/publication-type/1/</loc><lastmod>2020-10-09T00:00:00+00:00</lastmod></url>
-  <url>
     <loc>https://academic-demo.netlify.app/author/augustin-marignier/</loc><lastmod>2020-10-09T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/author/augustine-mavor-parker/</loc><lastmod>2020-10-09T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/tag/deep-learning/</loc><lastmod>2020-10-09T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/publication/spherical_cnns_2021/</loc><lastmod>2020-10-09T00:00:00+00:00</lastmod></url>
   <url>
